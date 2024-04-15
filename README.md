@@ -1,4 +1,11 @@
-### Hi there 👋
+## About Me
+- 19 years old
+- 2nd-year Computer Science student at AGH University of Science and Technology, Krakow
+- 2nd-year Mathematics student at UKEN Krakow
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlodyjesienin&theme=react&layout=compact&langs_count=8&hide=jupyter%20notebook" />
+</a>
 
 <!--
 **mlodyjesienin/mlodyjesienin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
