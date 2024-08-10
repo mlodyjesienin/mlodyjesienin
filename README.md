@@ -1,5 +1,5 @@
 ## About Me
-- 19 years old
+- 20 years old
 - 2nd-year Computer Science student at AGH University of Science and Technology, Krakow
 - 2nd-year Mathematics student at UKEN Krakow
 
