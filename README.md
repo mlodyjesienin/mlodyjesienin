@@ -18,6 +18,7 @@ Recently, I've started some work around *Graph Isomorphism* problem.
 - *"On free arrangements of three conics"* - [[preprint] ](https://arxiv.org/abs/2505.20025) - Joint work with Łukasz Merta and Marcin Zieliński.
 - *"Postulation of lines in projecitve space of dimension three"* - [[pdf]](https://mlodyjesienin.github.io/my-papers/bachelor-thesis-levan-zielinski.pdf) -  My Bachelor Thesis in Mathematic written with Mikołaj Le Van under prof. Tomasz Szemberg.
 
+Feel free to contact me via email filipzielinski377@gmail.com
 ##
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlodyjesienin&theme=react&layout=compact&langs_count=8&hide=jupyter%20notebook" />
