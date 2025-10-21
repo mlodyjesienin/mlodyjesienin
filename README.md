@@ -2,11 +2,10 @@
 - 21 years old
 - B.A in Mathematics, graduated in 2025 from *UKEN Krakow*
 - 4th-year Computer Science student at *AGH University of Science and Technology, Krakow*
-- Software Engineer Intern at *Software Mansion*.
   
 Hi, my name is Filip and I do some programming & mathematical research. 
 
-I am currently enrolled in 4th year *CS* studies and in June 2025 i graduated in Mathematics. This summer I am working as SE intern at *Software Mansion*.
+I am currently enrolled in 4th year *CS* studies and in June 2025 i graduated in Mathematics.
 
 In pure mathematics I am mostly interested in *Algebraic Geometry* (free conic arrangements, postulations of lines, geproci sets).
 
