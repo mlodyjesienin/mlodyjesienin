@@ -1,7 +1,8 @@
 ## About Me
-- 21 years old
+- 22 years old
 - B.A in Mathematics, graduated in 2025 from *UKEN Krakow*
 - 4th-year Computer Science student at *AGH University of Science and Technology, Krakow*
+- M.Sc. student in Mathematics and Computer Science at Saarland University. 
   
 Hi, my name is Filip and I do some programming & mathematical research. 
 
@@ -11,11 +12,8 @@ In pure mathematics I am mostly interested in *Algebraic Geometry* (free conic a
 
 I am falling in love with computer algebra systems (**OSCAR**) and *Computational Algebra* in general. 
 
-Recently, I've started some work around *Graph Isomorphism* problem. 
-
 ### My work
 - *"On free arrangements of three conics"* - [[preprint] ](https://arxiv.org/abs/2505.20025) - Joint work with Łukasz Merta and Marcin Zieliński.
-- *"Postulation of lines in projecitve space of dimension three"* - [[pdf]](https://mlodyjesienin.github.io/my-papers/bachelor-thesis-levan-zielinski.pdf) -  My Bachelor Thesis in Mathematic written with Mikołaj Le Van under prof. Tomasz Szemberg.
 
 Feel free to contact me via email filipzielinski377@gmail.com
 ##
